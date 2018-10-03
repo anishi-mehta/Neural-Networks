@@ -1,5 +1,0 @@
-year	origin	dest	sitc	export_val	import_val
-1962	ago	civ	6785	0.00	3000.00
-1962	ago	civ	2654	158000.00	0.00
-1962	ago	civ	6651	1000.00	0.00
-1962	ago	cod	2483	0.00	1000.00
